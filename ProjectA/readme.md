@@ -1,4 +1,5 @@
-# Background
+# Project A
+### Background
 This project is the ﬁrst in a series of three, with the ultimate objective of designing and implementing (in Java) a simple variant of the game of Nim. It is a two player game, and the rules of the version used here are as follows:
 
 • The game begins with a number of objects (e.g., stones placed on a table).
